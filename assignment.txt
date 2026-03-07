@@ -1,0 +1,7 @@
+This files is created as part of Assignemnt 4 for WSAA course. 
+
+Andrew B. is the lecturer. 
+
+For the assignment, Andrew wants us to write a program in python that will read a file from a repository and do some modifications. 
+
+The task involves athentication, but Andrew doesn't want to see auth keys.
